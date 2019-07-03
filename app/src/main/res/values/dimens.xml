@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_55">60dp</dimen>
+    <dimen name="standard_100">110dp</dimen>
+    <dimen name="standard_145">160dp</dimen>
+    <dimen name="circle">40dp</dimen>
+    <dimen name="distance">36dp</dimen>
+</resources>
